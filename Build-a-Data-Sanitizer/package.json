@@ -1,0 +1,15 @@
+{
+  "name": "build-a-data-sanitizer",
+  "version": "1.0.0",
+  "description": "data sanitizer",
+  "license": "BSD-3-Clause",
+  "author": "Graham Johnson",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
